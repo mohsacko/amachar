@@ -17,9 +17,11 @@ exclude_patterns = []
 html_title = "Association des Maliens de Charlotte (AMACHAR)"
 html_theme = 'furo'
 html_static_path = ['_static']
+html_js_files = []
 # -- HTML options ------------------------------------------------------------
 html_logo = "_static/amachar_logo.png"  # ✅ Your logo path
 html_theme_options = {
     "logo_only": False,  # True = logo only, False = logo + title
     "display_version": False,
 }
+html_baseurl = "https://mohsacko.github.io/amachar/"
