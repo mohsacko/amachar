@@ -1,0 +1,47 @@
+CHAPITRE II – ASSEMBLEE GENERALE
+================================
+.. raw:: html
+
+    <section>
+      
+      <h2>ARTICLE 3</h2>
+      <p>
+        L’Assemblée Générale (A.G) est l’instance suprême et souveraine de l’association. Elle se réunit au moins deux fois par an en session ordinaire, sur convocation du bureau :
+      </p>
+      <ul>
+        <li>Une première fois pour adopter le programme d’activités ;</li>
+        <li>Une seconde pour examiner et valider le rapport d’activités.</li>
+      </ul>
+      <p>L’ordre du jour, signé par le président, est communiqué au moins une semaine avant la réunion.</p>
+
+      <h2>ARTICLE 4</h2>
+      <p>
+        En session ordinaire ou extraordinaire, le quorum est atteint à la majorité simple des membres.
+        Si le quorum n’est pas atteint, l’A.G est convoquée de nouveau dans les conditions déterminées pour les membres présents.
+      </p>
+
+      <h2>ARTICLE 5</h2>
+      <p>
+        Les sessions de l’A.G sont dirigées par le président assisté de deux rapporteurs élus à cet effet.
+        Les décisions sont prises à la majorité simple.
+      </p>
+
+      <h2>ARTICLE 6</h2>
+      <p>
+        Un procès-verbal est établi à l’issue de chaque A.G. Il est lu et approuvé à la prochaine A.G.
+      </p>
+
+      <h2>ARTICLE 7</h2>
+      <p>L’A.G est seule compétente pour :</p>
+      <ul>
+        <li>Approuver et modifier les statuts et le règlement intérieur ;</li>
+        <li>Élire ou révoquer les membres du bureau ;</li>
+        <li>Fixer le montant des cotisations et le prix de la carte de membre.</li>
+      </ul>
+
+      <h2>ARTICLE 8</h2>
+      <p>
+        Pour être électeur et éligible, le membre doit être en règle, conformément aux dispositions des statuts et du règlement intérieur.
+      </p>
+    </section>
+

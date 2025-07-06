@@ -1,0 +1,61 @@
+CHAPITRE IV – MEMBRES
+=====================
+.. raw:: html
+
+    <section>
+
+      <h2>ARTICLE 13</h2>
+      <p>
+        L'Association peut à tout moment accueillir de nouveaux membres. Chaque membre doit respecter les opinions, traditions, et croyances des autres membres.
+        Aucune forme d’insulte, d’exclusion, de sexisme ou de tribalisme ne sera tolérée.
+        Les échanges sur les canaux de communication doivent rester courtois et axés sur les objectifs de l’association.
+      </p>
+
+      <h2>ARTICLE 14</h2>
+      <p>Tout membre de l’association est fortement encouragé à :</p>
+      <ul>
+        <li>Respecter les statuts et le règlement de l’association</li>
+        <li>Payer ses cotisations et participer aux activités de l’association</li>
+        <li>Contribuer à la réalisation des buts et objectifs de l’association</li>
+        <li>Observer la règle de la critique et de l’autocritique constructive</li>
+      </ul>
+
+      <h2>ARTICLE 15</h2>
+      <p>
+        Afin de financer les activités culturelles, sociales, éducatives et économiques de l’association,
+        la cotisation mensuelle est fixée à <strong>$50</strong> par personne.
+      </p>
+      <p>
+        Cette cotisation est obligatoire pour tous les membres du bureau, et fortement encouragée pour les autres membres actifs de la communauté.
+        Chaque membre à jour de sa cotisation recevra une carte de membre personnalisée avec un numéro d’identification unique.
+        Cette carte pourra être exigée lors de certains événements ou pour bénéficier de services spécifiques.
+      </p>
+
+      <h2>ARTICLE 16</h2>
+      <p>
+        L’Association, fidèle à ses valeurs de solidarité et d’entraide, peut accorder une exonération partielle ou totale de cotisation à un membre en difficulté financière.
+        La demande doit être formulée par écrit et adressée au président ou au secrétaire général, en toute confidentialité.
+        Elle sera examinée par le bureau dans le respect de la dignité du membre concerné.
+        Ces mesures sont temporaires et réévaluées régulièrement selon la situation du membre et les capacités de l’association.
+      </p>
+
+      <h2>ARTICLE 17</h2>
+      <p>La qualité de membre se perd par :</p>
+      <ul>
+        <li>La démission</li>
+        <li>Le décès</li>
+        <li>La radiation prononcée par l’Assemblée Générale à la suite de mauvais comportements</li>
+      </ul>
+
+      <h2>ARTICLE 18</h2>
+      <p>
+        Toute violation des dispositions des articles 12 à 15 du présent règlement est considérée comme un acte d’indiscipline.
+        Le bureau peut appliquer les sanctions suivantes :
+      </p>
+      <ul>
+        <li>Blâme</li>
+        <li>Avertissement</li>
+        <li>Radiation</li>
+      </ul>
+    </section>
+
