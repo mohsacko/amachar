@@ -21,7 +21,13 @@ html_js_files = []
 # -- HTML options ------------------------------------------------------------
 html_logo = "_static/amachar_logo.png"  # ✅ Your logo path
 html_theme_options = {
-    "logo_only": False,  # True = logo only, False = logo + title
-    "display_version": False,
+    "light_logo": "amachar_logo.png",
+    "dark_logo": "amachar_logo.png",
+    "navigation_with_keys": True,
+    "sidebar_hide_name": False,
+    "source_repository": "https://github.com/mohsacko/amachar/",
+    "source_branch": "main",
+    "path_to_docs": "docs",
+    "base_url": "https://mohsacko.github.io/amachar/"
 }
 html_baseurl = "https://mohsacko.github.io/amachar/"
