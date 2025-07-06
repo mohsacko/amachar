@@ -1,0 +1,42 @@
+CHAPITRE I : OBJECTIFS
+======================
+.. raw:: html
+
+    <section>
+
+      <h2>ARTICLE 1</h2>
+      <p>
+        Le présent règlement intérieur est le règlement intérieur de l'Association suivante, soumise à l’assemble général du 6 Juillet 2025 :
+      </p>
+
+      <p><strong>Association des Maliens de Charlotte</strong></p>
+
+      <p><em>Dont l'objet est le suivant :</em></p>
+      <ul>
+        <li>Promouvoir la cohésion sociale, un esprit de fraternité et d’amitié de tous les Maliens et Maliennes à Charlotte dans l’état de la Caroline du Nord.</li>
+        <li>Informer, éduquer les membres sur leur droit et devoir vis à vis des États-Unis d’Amérique et aider les membres à entrer dans leur droit en cas d'injustice.</li>
+        <li>Faciliter par les voies et moyens appropriés et disponibles toutes tentatives de résolution des démarches administratives et légales récurrentes à la vie de la communauté malienne à Charlotte.</li>
+        <li>Aider la communauté malienne à satisfaire les besoins socio-économiques, culturels et éducatifs (assurance médicale, soins de santé abordables, ONG, etc.) avec une solidarité sans précédent.</li>
+        <li>L'insertion et la participation active du Conseil dans la vie sociale, sportive et culturelle de la ville de Charlotte, et bénéficier autant que possible des opportunités qu’offre Charlotte.</li>
+        <li>Tisser des relations avec d'autres associations africaines et non africaines dans toute la Caroline du Nord, et autres états des États-Unis d’Amérique.</li>
+        <li>L'initiation de nos enfants à la culture africaine à travers les rencontres et les excursions pour mieux les acculturer.</li>
+        <li>Regrouper et recenser tout ressortissant malien et toute ressortissante malienne à Charlotte et environnants.</li>
+      </ul>
+
+      <h2>ARTICLE 2</h2>
+      <p>
+        L’Association Malienne de Charlotte est strictement apolitique et à but non lucratif dotée de la personnalité morale. Aucun membre ne peut utiliser ses structures, ressources ou plateformes pour faire la promotion directe ou indirecte d’un parti politique, d’un gouvernement ou d’une personnalité politique, quelle qu’en soit l’origine.
+      </p>
+
+      <p><em>Il est formellement interdit de :</em></p>
+      <ul>
+        <li>Diffuser des slogans, images ou discours à caractère politique ;</li>
+        <li>Organiser ou inciter à des débats politiques ;</li>
+        <li>Utiliser les canaux officiels de l’association (réunions, événements, groupes WhatsApp, courriels, réseaux sociaux, etc.) à des fins politiques.</li>
+      </ul>
+
+      <p>
+        Tout manquement à cette règle pourra faire l’objet de sanctions, conformément aux dispositions prévues dans le présent règlement intérieur.
+      </p>
+    </section>
+

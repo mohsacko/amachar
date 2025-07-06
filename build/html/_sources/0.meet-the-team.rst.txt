@@ -1,0 +1,110 @@
+Rencontrez le Bureau
+=====================
+
+.. raw:: html
+
+  <section class="team-section">
+  <h2 class="team-title">Rencontrez le Bureau</h2>
+  <div class="team-grid">
+    <div class="team-card">
+      <img src="_static/photo_1.jpg" alt="Mahamadou dit Youba Sissoko">
+      <h3>Mahamadou dit Youba Sissoko</h3>
+      <p>Président</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_2.jpg" alt="Bassaly Diarisso">
+      <h3>Bassaly Diarisso</h3>
+      <p>Vice-Président</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_3.jpg" alt="Mohamed Sacko">
+      <h3>Mohamed Sacko</h3>
+      <p>Secrétaire Général</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_4.jpg" alt="Papa Sidibe">
+      <h3>Papa Sidibe</h3>
+      <p>Secrétaire Général Adjoint</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_5.jpg" alt="Baba Soumare">
+      <h3>Baba Soumare</h3>
+      <p>Trésorier Général</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_6.jpg" alt="Oumou Karembe">
+      <h3>Oumou Karembe</h3>
+      <p>Trésorière Générale Adjointe</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_8.jpg" alt="Ousmane Kone">
+      <h3>Ousmane Kone</h3>
+      <p>Secrétaire à l'Information</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_9.jpg" alt="Ahmadou dit Tonton Diombele">
+      <h3>Ahmadou dit Tonton Diombele</h3>
+      <p>Adjoint à l'Information</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_10.jpg" alt="Thierno Sissoko">
+      <h3>Thierno Sissoko</h3>
+      <p>Secrétaire à l'Organisation</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_11.jpg" alt="Amadou Kontao">
+      <h3>Amadou Kontao</h3>
+      <p>Organisation Adjoint</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_12.jpg" alt="Baminata Kone">
+      <h3>Baminata Kone</h3>
+      <p>Organisation 2e Adjoint</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_7.jpg" alt="Maimouna Diarra">
+      <h3>Maimouna Diarra</h3>
+      <p>Sports et Culture</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_13.jpg" alt="Adam Kante">
+      <h3>Adam Kante</h3>
+      <p>Affaires Féminines</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_14.jpg" alt="Bana Koita">
+      <h3>Bana Koita</h3>
+      <p>Adjointe Affaires Féminines</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_15.jpg" alt="Anna Maiga">
+      <h3>Anna Maiga</h3>
+      <p>Commissaire aux Comptes</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_16.jpg" alt="Faraba Traore">
+      <h3>Faraba Traore</h3>
+      <p>Commissaire aux Comptes Adjoint</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_17.jpg" alt="Laye Kone">
+      <h3>Laye Kone</h3>
+      <p>Chargé des Conflits</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_18.jpg" alt="Sidy Kaba Traore">
+      <h3>Sidy Kaba Traore</h3>
+      <p>Conflits Adjoint</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_19.jpg" alt="Dado Magassouba">
+      <h3>Dado Magassouba</h3>
+      <p>Conflits 2e Adjoint</p>
+    </div>
+    <div class="team-card">
+      <img src="_static/photo_20.jpg" alt="Ousmane Soumare">
+      <h3>Ousmane Soumare</h3>
+      <p>Doyen de la communauté</p>
+    </div>
+  </div>
+  </section>

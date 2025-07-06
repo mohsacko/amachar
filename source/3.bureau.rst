@@ -1,0 +1,85 @@
+CHAPITRE III – BUREAU
+=====================
+.. raw:: html
+
+    <section>
+
+      <h2>ARTICLE 9</h2>
+      <p>
+        La composition du Conseil d'administration de l'Association est décrite dans les statuts de l'Association.
+        Le Conseil d'Administration a la charge de la gestion de l'Association et de la préparation des travaux de l'Assemblée Générale, dont il établit l'ordre du jour et applique les décisions.
+        Il est également compétent pour décider de la radiation d'un membre ayant commis une faute grave.
+      </p>
+      <p>
+        Il est investi des pouvoirs les plus étendus pour faire ou autoriser tous les actes ou opérations dans la limite de son objet et qui ne sont pas du ressort de l'Assemblée Générale.
+        Il surveille la gestion des membres du Bureau et a le droit de se faire rendre compte de leurs actes. Il arrête également le budget et les comptes annuels de l'Association, cette énumération n'étant pas limitative.
+      </p>
+      <p>
+        Les décisions prises au sein du Conseil d'Administration sont prises à la majorité absolue des membres présents, qui ne peuvent être représentés. Aucun quorum n'est fixé.
+        En cas de partage des votes, la voix du Président emporte la décision.
+      </p>
+      <p>
+        Le Conseil se réunit au moins une fois tous les deux mois, sur convocation du Président ou à la demande d'au moins 50% de ses membres, qui ne perçoivent ni rémunération, ni compensation.
+        Tout membre du Conseil d'Administration qui, sans excuse, n'aura pas assisté à trois (3) réunions consécutives du Conseil, pourra être considéré comme démissionnaire.
+      </p>
+
+      <h2>ARTICLE 10</h2>
+      <p>
+        Le bureau exécutif, élu par l’Assemblée Générale pour une durée de cinq (5) ans renouvelables, est composé de 23 membres aux fonctions réparties comme suit :
+      </p>
+
+      <ul>
+        <li>
+          <strong>PRÉSIDENT ACTIF :</strong> Responsable principal de l’association. Convoque et préside toutes les réunions et veille à l’exécution des décisions de l’A.G par le bureau et les membres. 
+          Il signe tous les documents engageant l’association et peut déléguer sa signature. Il supervise toutes les activités de l’association.
+        </li>
+        <li>
+          <strong>VICE-PRÉSIDENT :</strong> Remplace le président en cas d’absence ou d’empêchement. Exécute les missions confiées par le président ou le bureau.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE GÉNÉRAL & 1 ADJOINT :</strong> Coordinateur, rédacteur des procès-verbaux, gardien des archives. Il met en œuvre les décisions du bureau.
+        </li>
+        <li>
+          <strong>TRÉSORIER GÉNÉRAL & 1 ADJOINT :</strong> Responsable de la comptabilité et des mouvements bancaires. Les fonds sont déposés dans une banque désignée par le bureau.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE À LA COMMUNICATION, MOBILISATION & ORGANISATION + 2 ADJOINTS :</strong> Diffuse les informations, organise les activités culturelles et sportives.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE DES AFFAIRES FÉMININES & 1 ADJOINT :</strong> Gère les activités familiales, féminines et éducatives.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE AUX SPORTS & 1 ADJOINT :</strong> Supervise les sports, traditions, et organise les sorties.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE DES RELATIONS EXTÉRIEURES & 1 ADJOINT :</strong> Responsable des liens avec les partenaires locaux, nationaux et internationaux.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE DE LA FORMATION ET DES PROJETS & 1 ADJOINT :</strong> Conçoit et gère des projets de formation avec le Mali et la communauté locale.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE AU CONTRÔLE DES COMPTES & 1 ADJOINT :</strong> Vérifie les documents du trésorier et de la banque.
+        </li>
+        <li>
+          <strong>SECRÉTAIRE CHARGÉ DES CONFLITS & 1 ADJOINT :</strong> Gère les différends entre les membres ou avec des tiers.
+        </li>
+      </ul>
+
+      <h2>ARTICLE 11</h2>
+      <p>
+        Les fonds de l’Association proviennent des cotisations, dons, contributions volontaires et recettes d’événements.
+        La gestion est assurée par le trésorier sous supervision du bureau exécutif.
+      </p>
+      <p>
+        Toute dépense nécessite validation préalable et double signature du président et du trésorier, ou de leurs délégués.
+        Un rapport financier annuel est présenté à l’A.G. Tout membre peut demander à consulter les comptes dans un cadre défini.
+      </p>
+      <p>
+        L’association garantit une gestion transparente de ses ressources.
+      </p>
+
+      <h2>ARTICLE 12</h2>
+      <p>
+        Les statuts et le règlement intérieur ne peuvent être modifiés que par décision de l’Assemblée Générale prise à la majorité des 2/3 des membres présents.
+      </p>
+    </section>

@@ -1,0 +1,41 @@
+CHAPITRE VI CHAPITRE VI - ADOPTION, MODIFICATION ET PUBLICITE
+=============================================================
+.. raw:: html
+
+    <section>
+
+      <p>
+        Le présent règlement intérieur est établi conformément aux statuts de l'Association, et est ratifié par l’Assemblée Générale ordinaire de l’Association.
+      </p>
+
+      <p>
+        Sur proposition des membres de l’Association, du Bureau ou du Conseil d’Administration, il pourra être procédé à sa modification lors de l’Assemblée Générale ordinaire annuelle, après ratification selon les modalités décrites dans les statuts.
+      </p>
+
+      <p>
+        Une fois modifié, une copie du présent règlement intérieur sera transmise à l’ensemble des membres dans un délai de <strong>trente (30) jours</strong>. Ces modifications ne doivent en aucun cas altérer les principes fondateurs définis dans les statuts.
+      </p>
+
+      <p>
+        Un exemplaire du règlement sera affiché dans les locaux de l’Association. Il sera également transmis à <strong>tous les membres actuels</strong> ainsi qu’à <strong>chaque nouvel adhérent</strong>.
+      </p>
+
+      <hr>
+
+      <p><strong>Fait à Charlotte (Caroline du Nord), U.S.A., le : ___ Mai 2025 ___</strong></p>
+
+      <table style="width:100%; margin-top: 20px;">
+        <tr>
+          <td><strong>MAHAMED SISSOKO</strong><br>Président de l'Association</td>
+          <td>___________________________</td>
+        </tr>
+        <tr>
+          <td><strong>MOHAMED SACKO</strong><br>Secrétaire Général de l'Association</td>
+          <td>___________________________</td>
+        </tr>
+        <tr>
+          <td><strong>SEGA SOUMARE</strong><br>Trésorier de l'Association</td>
+          <td>___________________________</td>
+        </tr>
+      </table>
+    </section>
