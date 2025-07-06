@@ -17,6 +17,7 @@ exclude_patterns = []
 html_title = "Association des Maliens de Charlotte (AMACHAR)"
 html_theme = 'furo'
 html_static_path = ['_static']
+html_extra_path = ['_static']
 html_js_files = []
 # -- HTML options ------------------------------------------------------------
 html_logo = "_static/amachar_logo.png"  # ✅ Your logo path
